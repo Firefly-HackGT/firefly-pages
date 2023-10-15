@@ -1,4 +1,4 @@
-<img src="https://github.com/Firefly-HackGT/firefly-pages/blob/main/assets/img/FireFly_Background.png" class="center-image">
+![FireFly_Background](https://github.com/Firefly-HackGT/firefly-pages/assets/59548615/f1a795ed-0173-4260-877f-a27bb64dac06)
 
 ### Our Mission
 Just like fireflies light up the night, our project, Firefly, is here to help students and professors brighten their learning journey. Imagine a classroom where sometimes it's hard for students to grasp what's being taught. They might feel a little nervous about asking for help, and so they stay quiet. They might not even know enough about the lecture material to be able to ask a question. This means the teacher might not know when the students need extra help.
