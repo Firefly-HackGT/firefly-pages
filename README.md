@@ -1,9 +1,7 @@
 # Firefly
 
-![firefly](https://github.com/Firefly-HackGT/firefly-pages/assets/59548615/97371680-99b9-4959-a66e-9d21533e2565)
-
 ### Our Mission
-Just like fireflies light up the night, our project, Firefly, is here to help students and professors brighten their learning journey. Imagine a classroom where sometimes it's hard for students to grasp what's being taught. They might feel a little nervous about asking for help, and so they stay quiet. This means the teacher might not know they need some extra help.
+Just like fireflies light up the night, our project, Firefly, is here to help students and professors brighten their learning journey. Imagine a classroom where sometimes it's hard for students to grasp what's being taught. They might feel a little nervous about asking for help, and so they stay quiet. They might not even know enough about the lecture material to be able to ask a question. This means the teacher might not know when the students need extra help.
 
 That is where Firefly comes in. It is like a friendly guide, helping students express how well they understand a lesson, using a scale from 1 to 5. Teachers can see which areas need a little more attention, so they can explain these topics in more detail. With Firefly, we are creating a space where everyone can learn together and where no one has to feel lost or left behind. Together, we're turning on the light of knowledge, making sure no one feels in the dark about their learning.
 
