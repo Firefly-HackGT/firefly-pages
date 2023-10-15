@@ -1,4 +1,4 @@
 title: Firefly
 logo: /assets/img/firefly.jpg
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: jekyll-theme-cayman
