@@ -1,5 +1,5 @@
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/Firefly-HackGT/firefly-pages/blob/main/assets/img/FireFly%20Background.png">
+<p align="center">
+    <img width="300" height="300" src="https://github.com/Firefly-HackGT/firefly-pages/blob/main/assets/img/FireFly_Background.png">
 </p>
 
 ### Our Mission
