@@ -1,4 +1,8 @@
 title: Firefly
 logo: /assets/img/firefly.jpg
 show_downloads: false
+hide_github: true
+header-colours:
+  right: "#ffd966"
+  left: "#cc580c"
 theme: jekyll-theme-cayman
